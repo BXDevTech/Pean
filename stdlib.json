@@ -1,0 +1,173 @@
+{
+    "name": "buuyaxd/discordbot-pea3",
+    "timeout": 10000,
+    "connector": false,
+    "events": {
+      "functions/events/discord/bot/playback/finished.js": {
+        "name": "discord.bot.playback.finished"
+      },
+      "functions/events/discord/message/button/loop.js": {
+        "name": "discord.message.button.interaction",
+        "subtype": {
+          "custom_id": "loop"
+        }
+      },
+      "functions/events/discord/message/button/stop.js": {
+        "name": "discord.message.button.interaction",
+        "subtype": {
+          "custom_id": "stop"
+        }
+      },
+      "functions/events/discord/message/button/skip.js": {
+        "name": "discord.message.button.interaction",
+        "subtype": {
+          "custom_id": "skip"
+        }
+      },
+      "functions/events/discord/message/create.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/voice/state/update.js": {
+        "name": "discord.voice.state.update"
+      },
+      "functions/events/discord/voice/presence/update.js": {
+        "name": "discord.presence.update"
+      },
+      "functions/events/discord/message/button/fix.js": {
+        "name": "discord.message.button.interaction",
+        "subtype": {
+          "custom_id": "fix"
+        }
+      },
+      "functions/events/discord/message/button/pause.js": {
+        "name": "discord.message.button.interaction",
+        "subtype": {
+          "custom_id": "play_pause"
+        }
+      },
+      "functions/events/autocode/self/deployed.js": {
+        "name": "autocode.self.deployed"
+      },
+      "functions/events/discord/message/summon.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/play.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/queue.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/loop.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/pause.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/zEnd.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/unloop.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/track.js": {
+        "name": "discord.message.create"
+      },
+      "functions/events/discord/message/moreCommands/utilityCommands/utility.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*utility"
+        }
+      },
+      "functions/events/discord/message/moreCommands/utilityCommands/help.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*help"
+        }
+      },
+      "functions/events/discord/message/moreCommands/utilityCommands/info.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*info"
+        }
+      },
+      "functions/events/discord/message/moreCommands/utilityCommands/ping.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*ping"
+        }
+      },
+      "functions/events/discord/message/moreCommands/utilityCommands/vote.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*vote"
+        }
+      },
+      "functions/events/discord/message/moreCommands/utilityCommands/invite.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*invite"
+        }
+      },
+      "functions/events/discord/message/moreCommands/searchCommands/search.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*search"
+        }
+      },
+      "functions/events/discord/message/moreCommands/searchCommands/google.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*google"
+        }
+      },
+      "functions/events/discord/message/moreCommands/searchCommands/bing.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*bing"
+        }
+      },
+      "functions/events/discord/message/moreCommands/searchCommands/reddit.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*reddit"
+        }
+      },
+      "functions/events/discord/message/moreCommands/searchCommands/youtube.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*youtube"
+        }
+      },
+      "functions/events/discord/message/moreCommands/searchCommands/github.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*github"
+        }
+      },
+      "functions/events/discord/message/moreCommands/searchCommands/twitch.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*twitch"
+        }
+      },
+      "functions/events/discord/bot_mention.js": {
+        "name": "discord.bot_mention"
+      },
+      "functions/events/discord/message/moreCommands/music-help.js": {
+        "name": "discord.message.create.prefix",
+        "subtype": {
+          "prefix": "*music-help"
+        }
+      }
+    },
+    "env": [
+      {
+        "name": "PREFIX",
+        "description": "Prefix of your bot"
+      },
+      {
+        "name": "key",
+        "description": "Unique Key"
+      }
+    ]
+  }
