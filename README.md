@@ -4,13 +4,25 @@
 
 ## Featured Project: Pean - Discord Bot
 
-<img src="profile/pean_logo.png" alt="Pean Logo" width="200"/> <img src="profile/pean_banner.jpg" alt="Pean Banner" width="620"/>
+<img src="assets/pean_logo.png" alt="Pean Logo" width="200"/> <img src="assets/pean_banner.jpg" alt="Pean Banner" width="620"/>
 
 ### What is Pean?
 
 Pean is our flagship project, bringing Music and Beats to your Discord Server. Check out the code, contribute, and let's make Pean even more awesome together!
 
 - **Repository**: ![Pean Discord Bot](https://github.com/BXDevTech/Pean)
+
+## Achievement Unlocked: 🎵 Pean - Discord Bot
+
+**Exciting News!** 🚀 BXDev Technology's Pean Discord Bot has hit a high note in its journey!
+
+- 🌐 Surpassed 5K+ views and achieved an impressive 9+ downloads!
+- 🎶 Continuously evolving with new features and enhancements.
+- 🚀 Loved by a growing community of Discord enthusiasts.
+
+<img src="assets/pean_review.png" alt="Pean Achievement" width="620"/>
+
+Thank you for being part of the musical journey with Pean! Let's keep the beats alive! 🎉
 
 ## Prefix  >> * <<
 
