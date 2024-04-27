@@ -26,9 +26,9 @@ Thank you for being part of the musical journey with Pean! Let's keep the beats 
 
 ## Prefix  >> * <<
 
-## Deploy Benin using Heroku
+## Deploy Pea3 using Heroku
 
-Explore and deploy Pean effortlessly on Heroku. Click the link above to get started.
+Explore and deploy Pea3 effortlessly on Heroku. Click the link above to get started.
 
 ## Deployment using Heroku
 
@@ -55,7 +55,7 @@ Explore and deploy Pean effortlessly on Heroku. Click the link above to get star
 6. **Enjoy Seamless Hosting:**
    - Heroku takes care of the hosting and maintenance of your Discord bot, allowing you to focus on enhancing its features and functionality.
 
-Now, you're all set! Your Benin Discord bot is deployed, hosted, and ready to bring laughter to your server.
+Now, you're all set! Your Pea3 Discord bot is deployed, hosted, and ready to bring laughter to your server.
 
 **Note:** If you encounter any issues or have questions during the deployment process, refer to Heroku's documentation or community support for assistance.
 
