@@ -1,4 +1,4 @@
-# 🎵 BXDev Technology Music Bot - Pea3 | Pean
+## 🎵 BXDev Technology Music Bot - Pea3 | Pean
 
 <h4 align="center">Introducing BXDev's Pean (V3.0), where we bring the beats to your server! 🎶</h4>
 
