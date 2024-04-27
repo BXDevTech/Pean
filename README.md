@@ -8,7 +8,7 @@
 
 ### What is Pean?
 
-Pean is our flagship project, bringing Music and Beats to your Discord Server. Check out the code, contribute, and let's make Pean even more awesome together!
+Pean is our flagship project, bringing music and beats to your Discord Server. Check out the code, contribute, and let's make Pean even more awesome together!
 
 - **Repository**: [Pean Discord Bot](https://github.com/BXDevTech/Pean)
 
