@@ -26,39 +26,40 @@ Thank you for being part of the musical journey with Pean! Let's keep the beats 
 
 ## Prefix  >> * <<
 
-## [Deploy Pean using Autocode](https://autocode.com/BuuyaXD/templates/discordbot-pea3/)
-Explore and deploy Pean effortlessly on Autocode. Click the link above to get started.
+## Deploy Benin using Heroku
 
-## Deployment using Autocode
+Explore and deploy Pean effortlessly on Heroku. Click the link above to get started.
 
-1. **Sign Up on Autocode:**
-   - If you don't have an Autocode account, start by signing up on [Autocode](https://autocode.com/).
+## Deployment using Heroku
+
+1. **Sign Up on Heroku:**
+   - If you don't have a Heroku account, start by signing up on [Heroku](https://www.heroku.com/).
    - It's a quick and easy process. Follow the on-screen instructions to create your account.
 
 2. **Visit the Deployment Link:**
-   - Once logged in, navigate to [this deployment link](https://autocode.com/BuuyaXD/templates/discordbot-pea3/).
-   - This link will take you to the Autocode project template for Pean.
+   - Once logged in, navigate to [this deployment link](https://www.heroku.com/).
+   - This link will take you to Heroku's dashboard where you can manage your applications.
 
 3. **Configure Your Discord Bot:**
-   - Follow the prompts to set up your Discord bot on Autocode.
-   - Provide the necessary information, including your Discord bot token and any required configurations.
+   - Before deploying, make sure you have your Discord bot token and any required configurations ready.
+   - Heroku uses environment variables to store sensitive information like tokens. You can set these in your Heroku app's settings.
 
 4. **Deploy Your Bot:**
-   - Click on the "Deploy" button to initiate the deployment process.
-   - Autocode will handle the deployment and hosting of your Discord bot, so you don't have to worry about server management.
+   - Follow Heroku's documentation to create a new app and deploy your Discord bot.
+   - You can deploy your bot directly from your GitHub repository or by using Heroku CLI.
 
 5. **Access and Manage Your Bot:**
-   - Once deployed, you can access and manage your bot directly from your Autocode dashboard.
-   - Make any necessary updates or changes to your bot's code using the built-in code editor.
+   - Once deployed, you can access and manage your bot directly from your Heroku dashboard.
+   - Make any necessary updates or changes to your bot's code by pushing changes to your linked GitHub repository.
 
 6. **Enjoy Seamless Hosting:**
-   - Autocode takes care of the hosting and maintenance of your Discord bot, allowing you to focus on enhancing its features and functionality.
+   - Heroku takes care of the hosting and maintenance of your Discord bot, allowing you to focus on enhancing its features and functionality.
 
-Now, you're all set! Your Pean Discord bot is deployed, hosted, and ready to bring music to your server.
+Now, you're all set! Your Benin Discord bot is deployed, hosted, and ready to bring laughter to your server.
 
-**Note:** If you encounter any issues or have questions during the deployment process, feel free to reach out to Autocode support or refer to their documentation for assistance.
+**Note:** If you encounter any issues or have questions during the deployment process, refer to Heroku's documentation or community support for assistance.
 
-For more detailed instructions or troubleshooting, refer to the [Autocode Documentation](https://docs.autocode.com/). If you have any specific questions about Pean, join our [Support Server](https://discord.gg/SsW9HPKnUR) for assistance.
+For more detailed instructions or troubleshooting, refer to the [Heroku Documentation](https://devcenter.heroku.com/). If you have any specific questions about Pean, join our [Support Server](https://discord.gg/SsW9HPKnUR) for assistance.
 
 ## Visual Preview
 
