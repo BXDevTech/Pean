@@ -2,7 +2,7 @@
 
 <h4 align="center">Introducing BXDev's Pean (V3.0), where we bring the beats to your server! 🎶</h4>
 
-## Featured Project: Pean - Discord Bot
+### Featured Project: Pean - Discord Bot
 
 <img src="assets/pean_logo.png" alt="Pean Logo" width="200"/> <img src="assets/pean_banner.jpg" alt="Pean Banner" width="620"/>
 
@@ -12,7 +12,7 @@ Pean is our flagship project, bringing Music and Beats to your Discord Server. C
 
 - **Repository**: [Pean Discord Bot](https://github.com/BXDevTech/Pean)
 
-## Achievement Unlocked: 🎵 Pean - Discord Bot
+### Achievement Unlocked: 🎵 Pean - Discord Bot
 
 **Exciting News!** 🚀 BXDev Technology's Pean Discord Bot has hit a high note in its journey!
 
@@ -24,13 +24,13 @@ Pean is our flagship project, bringing Music and Beats to your Discord Server. C
 
 Thank you for being part of the musical journey with Pean! Let's keep the beats alive! 🎉
 
-## Prefix  >> * <<
+### Prefix  >> * <<
 
-## Deploy Pea3 using Heroku
+### Deploy Pea3 using Heroku
 
 Explore and deploy Pea3 effortlessly on Heroku. Click the link above to get started.
 
-## Deployment using Heroku
+### Deployment using Heroku
 
 1. **Sign Up on Heroku:**
    - If you don't have a Heroku account, start by signing up on [Heroku](https://www.heroku.com/).
@@ -75,7 +75,7 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 ### Screenshot 4
 ![Screenshot 4](assets/pean_info.png "Pean Info Command")
 
-## Commands
+### Commands
 
 - *help*: Get information on the available commands.
 - *setup*: Set up the bot in a specific channel **(REQUIRED)**.
@@ -84,12 +84,12 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 - *fun* : Have fun and explore!
 - *utility* : Just the boring stuff!
 
-## Links
+### Links
 
 - [GitHub Page](https://github.com/bxdevtech): Check out our open-source project.
 - [Support Server](https://discord.gg/SsW9HPKnUR): Join our Discord community for assistance.
 
-## Update Log - Version 3.0.0
+### Update Log - Version 3.0.0
 
 - Added **Utility**
 - Fixed **search**
@@ -99,7 +99,7 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 - Major bug fix
 - Major audio fix
 
-## Features
+### Features
 
 - 🎶 High-quality audio streaming
 - 🔍 In-depth searching capabilities
@@ -117,7 +117,7 @@ Ready to dive in? Follow these simple steps to get started:
 
 Need help or have questions? Reach out to us at [bxdevtech@gmail.com] - we're here for you!
 
-## 🚀 Contribution Guidelines
+### 🚀 Contribution Guidelines
 
 We ❤️ contributions from the community! Whether you're a coding wizard or just starting, your input is valuable. Here's how you can get involved:
 
@@ -129,11 +129,11 @@ We ❤️ contributions from the community! Whether you're a coding wizard or ju
 
 Let's build something amazing together!
 
-## Code of Conduct: BXDev Technology Code of Conduct
+### Code of Conduct: BXDev Technology Code of Conduct
 
 Before you dive in, please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). We're all about creating a positive and inclusive community.
 
-## License: BXDev Technology Proprietary License
+### License: BXDev Technology Proprietary License
 
 Please review our [License](LICENSE) to understand how you can use and contribute to our projects.
 
