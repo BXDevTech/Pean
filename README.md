@@ -64,7 +64,7 @@ For more detailed instructions or troubleshooting, refer to the [Heroku Document
 ## Visual Preview
 
 ### Screenshot 1
-![Screenshot 1](assets/pean_profile.png "Pean Profile On Discord")
+![Screenshot 1](assets/pean_profile2.png "Pean Profile On Discord")
 
 ### Screenshot 2
 ![Screenshot 2](assets/pean_help.png "Pean Help Command")
